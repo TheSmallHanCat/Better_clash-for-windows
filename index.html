@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8>
+<title>Clash for Windows</title>
+<link rel="stylesheet" href="files_by_thesmallhancat/APlayer.min.css">
+<style>
+/*
+made by TheSmallHanCat
+来自TheSmallHanCat美化--禁止以任何盈利方式倒卖
+*/
+body{
+    background-image:url('http://quanjiatong.ltd/api.php'); /*背景图片可以换成你自己的地址*/
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    opacity: .85!important;
+    backdrop-filter: blur(5px)!important;
+}
+.content{
+    color:#FF69B4!important;
+}
+.main-main-menu .menu{
+    color:#00CED1!important;
+}
+.wrapper{
+    color:#00CED1!important;
+}
+.aplayer {
+    opacity: .35;
+    transition: .5s;
+    backdrop-filter: blur(5px)!important;
+}
+.aplayer:hover{
+    opacity:1!important;
+}
+</style>
+</head>
+<body>
+<div id=app></div><div id="player"></div>
+<script src="files_by_thesmallhancat/APlayer.min.js"></script>
+<!--加载播放器音乐列表,可以替换为你自己的-->
+<script src="https://api.hancat.link/cloud/music.php"></script>
+<script>if (process.env.NODE_ENV !== 'development') window.__static = require('path').join(__dirname, '/static').replace(/\\/g, '\\\\')</script>
+<script type=text/javascript src=renderer.js></script>
+</body>
+</html>
