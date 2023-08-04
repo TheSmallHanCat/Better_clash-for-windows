@@ -1,4 +1,4 @@
-# Better_clash-for-windows![image](https://github.com/TheSmallHanCat/Better_clash-for-windows/assets/109069769/e59b6e45-b596-4af7-a086-c6c9909ffacf)
+# Better_clash-for-windows<img src="https://github.com/TheSmallHanCat/Better_clash-for-windows/assets/109069769/e59b6e45-b596-4af7-a086-c6c9909ffacf" width="30" height="30">
 
 **修改的内容**
    基于[Clash for windows Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese)进行美化
