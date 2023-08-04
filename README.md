@@ -18,10 +18,15 @@
 
 （注意：这个库修改了css和js使clash更加好看美观，并没有其他特别高级的功能，至于自定义歌单，这个还没做好，也不知道能不能做好。）
 
-##预览图
+## 预览图
+![image](https://github.com/TheSmallHanCat/Better_clash-for-windows/assets/109069769/f72c9f87-95e7-4a27-8bd9-17f62d1964a9)
+![image](https://github.com/TheSmallHanCat/Better_clash-for-windows/assets/109069769/4e5b6eda-1960-4aff-ad73-c1031a764b3d)
+![image](https://github.com/TheSmallHanCat/Better_clash-for-windows/assets/109069769/b98729b0-81ec-4d28-ba2d-f7c1430f95b9)
+![image](https://github.com/TheSmallHanCat/Better_clash-for-windows/assets/109069769/5819ec33-b227-4048-81d3-d9d938f986b5)
 
 
-##更新日志
+
+## 更新日志
 ---
 
 ### 1.0_20230708
