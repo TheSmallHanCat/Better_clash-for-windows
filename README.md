@@ -52,10 +52,13 @@
 - 将css和js全部储存本地，减少网络消耗
 - 将带音乐播放器版本和不带的单独分开，用户可以自行选择使用
 
-###3.1_20230812
+### 3.1_20230812
 
 - 适配clash版本v0.20.31
-- 没了
+
+### 3.2_10230828
+
+- 适配clash版本v0.20.32
 
  汉化版asar用到的
  1.[Clash for windows Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese)
