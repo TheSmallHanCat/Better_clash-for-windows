@@ -11,7 +11,7 @@
 
 注意： 纯属个人兴趣修改，前者带有音乐播放器，如果你只希望使用主体美化功能，可以选择后者。(音乐播放器是我一不小心搞进去的)
 
-* 1.更新clash到最新版本,可以去[Clash for windows](https://github.com/Fndroid/clash_for_windows_pkg/releases)或者[Clash for windows Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese)下载原版
+* 1.更新clash到最新版本(目前为0.20.30,该asar已汉化，可以直接使用英文原版)
 * 2.**退出clash**
 * 3.将对应asar文件放入clash根目录下`resources`文件夹
 * 4.删除或者重命名原有`app.asar`，将新文件重命名为`app.asar`
@@ -52,13 +52,7 @@
 - 将css和js全部储存本地，减少网络消耗
 - 将带音乐播放器版本和不带的单独分开，用户可以自行选择使用
 
-### 3.1_20230812
-
-- 适配clash版本v0.20.31
-
-### 3.2_10230828
-
-- 适配clash版本v0.20.32
+### 后续版本均为适配官方版
 
  汉化版asar用到的
  1.[Clash for windows Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese)
