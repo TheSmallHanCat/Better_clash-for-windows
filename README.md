@@ -11,7 +11,7 @@
 
 注意： 纯属个人兴趣修改，学习用途！学习用途！如果你感觉这个项目没什么用，可以去支持一下原版。前者带有音乐播放器，如果你只希望使用主体美化功能，可以选择后者。(音乐播放器是我一不小心搞进去的)
 
-* 1.更新clash到最新版本(目前为0.20.30,该asar已汉化，可以直接使用英文原版)
+* 1.更新clash到最新版本（或者直接在[Releases](https://github.com/TheSmallHanCat/Better_clash-for-windows/releases)下载压缩包版本，并且可以忽略以下所有步骤）
 * 2.**退出clash**
 * 3.将对应asar文件放入clash根目录下`resources`文件夹
 * 4.删除或者重命名原有`app.asar`，将新文件重命名为`app.asar`
