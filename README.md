@@ -8,7 +8,7 @@
 
 自行选择 `app_with_music.asar` 和 `app_without_music.asar` 文件。
 
-注意： 纯属个人兴趣修改，学习用途！学习用途！如果你感觉这个项目没什么用，可以去支持一下原版。前者带有音乐播放器，如果你只希望使用主体美化功能，可以选择后者。(音乐播放器是我一不小心搞进去的)
+注意： 纯属个人兴趣修改，学习用途！学习用途！如果你感觉这个项目没什么用，可以去支持一下原版。
 
 * 1.更新clash到最新版本（或者直接在[Releases](https://github.com/TheSmallHanCat/Better_clash-for-windows/releases)下载压缩包版本，并且可以忽略以下所有步骤）
 * 2.**退出clash**
@@ -16,7 +16,6 @@
 * 4.删除或者重命名原有`app.asar`，将新文件重命名为`app.asar`
 * 5.重新启动clash即可。
 
-（注意：这个库修改了css和js使clash更加好看美观，并没有其他特别高级的功能，至于自定义歌单，这个还没做好，也不知道能不能做好。）
 
 ## 预览图（这个是旧的，请以新发布的为准）
 ![image](https://github.com/TheSmallHanCat/Better_clash-for-windows/assets/109069769/f72c9f87-95e7-4a27-8bd9-17f62d1964a9)
