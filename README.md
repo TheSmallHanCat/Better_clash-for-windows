@@ -4,7 +4,6 @@
    基于[Clash for windows Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese)进行美化
   1. 修改renderer.js中的clash的左侧文字
   2. 在index.html添加css和js代码
-  3. 添加了aplayer的脚本（这个用不到可以使用另一个版本）
 ## 使用方法
 
 自行选择 `app_with_music.asar` 和 `app_without_music.asar` 文件。
@@ -19,7 +18,7 @@
 
 （注意：这个库修改了css和js使clash更加好看美观，并没有其他特别高级的功能，至于自定义歌单，这个还没做好，也不知道能不能做好。）
 
-## 预览图
+## 预览图（这个是旧的，请以新发布的为准）
 ![image](https://github.com/TheSmallHanCat/Better_clash-for-windows/assets/109069769/f72c9f87-95e7-4a27-8bd9-17f62d1964a9)
 ![image](https://github.com/TheSmallHanCat/Better_clash-for-windows/assets/109069769/4e5b6eda-1960-4aff-ad73-c1031a764b3d)
 ![image](https://github.com/TheSmallHanCat/Better_clash-for-windows/assets/109069769/b98729b0-81ec-4d28-ba2d-f7c1430f95b9)
@@ -52,7 +51,12 @@
 - 将css和js全部储存本地，减少网络消耗
 - 将带音乐播放器版本和不带的单独分开，用户可以自行选择使用
 
-### 后续版本均为适配官方版
+### 4.0_20231103
+
+- 彻底移除音乐播放器
+- 将亮色暗色主题字体颜色分开
+- 左侧菜单栏添加过渡动画
+- 美化部分内容
 
  汉化版asar用到的
  1.[Clash for windows Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese)
