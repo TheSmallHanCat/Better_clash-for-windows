@@ -6,8 +6,6 @@
   2. 在index.html添加css和js代码
 ## 使用方法
 
-自行选择 `app_with_music.asar` 和 `app_without_music.asar` 文件。
-
 注意： 纯属个人兴趣修改，学习用途！学习用途！如果你感觉这个项目没什么用，可以去支持一下原版。
 
 * 1.更新clash到最新版本（或者直接在[Releases](https://github.com/TheSmallHanCat/Better_clash-for-windows/releases)下载压缩包版本，并且可以忽略以下所有步骤）
